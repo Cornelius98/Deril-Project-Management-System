@@ -80,7 +80,7 @@ The installation procedure to run the project on your local machine is as follow
 ## Test
 
 The following account, can be used as a test account; <br>
-`User Test`
+`User Test Account`
 <br>Mobile: 977742472 <br>
 Password: 12345 <br>
 
