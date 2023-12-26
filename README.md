@@ -59,9 +59,9 @@ The installation procedure to run the project on your local machine is as follow
 - Open phpMydmin
 - Create a database with the name `projectmanager` or as named in the database file in the `model` folder
 - Import the database
-- Go to Xamp/htdocs folder and creater a folder names `pms`
-- Move the downloaded ZIP file to `pms` folder or clone the respository in `pms` folder
-- Access the the project manage through the browser on 127.0.0.1/pms
+- Go to Xamp/htdocs folder and creater a folder names `deril`
+- Move the downloaded ZIP file to `deril` folder or clone the respository in `deril` folder
+- Access the the project manage through the browser on `127.0.0.1/deril`
 
 ## Usage
 
@@ -88,11 +88,11 @@ Password: 12345 <br>
 ## Support
 
 For additional assistance using this library, contact the developer experience (DX) team via;
-- WhatsApp: +260 977 742 472
-- Email: corneliuskasokola101@gmail.com
+- [WhatsApp Developer](https://wa.me/+260977742472)
+- [Email Developer](mailto:corneliuskasokola101@gmail.com)
 
 ## License
 
-By contributing to the Flutter library, you agree that your contributions will be licensed under its MIT license.
+By contributing to the Deril-Project-Management-System, you agree that your contributions will be licensed under its MIT license.
 
 Copyright (c) Omae Software.
